@@ -1,3 +1,4 @@
 cropImg.py is a basic image cropping tool.
 
-python cropImg.py source destination
+To run at the command line:
+python cropImg.py sourceFolder destinationFolder
